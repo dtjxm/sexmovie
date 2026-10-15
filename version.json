@@ -1,0 +1,14 @@
+{
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.0.8/app-release.apk",
+  "urls": [
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.0.8/app-release.apk"
+  ],
+  "size": 78217120,
+  "md5": "35f2c7942ffd002cb4ee49d391f67542",
+  "sha256": "d621ef39fcb53e48459a18d6923e7a80b06bb76b6c52d2b47132e618c968d70d",
+  "note": "新增应用内联网更新：启动时自动检查新版本，也可在「我的 → 检查更新」手动查；发现新版可直接在应用内下载并覆盖安装，收藏、历史与已下载影片全部保留。\n本版安装包大幅瘦身（约 139MB → 约 75MB）：仅保留 arm64 架构原生库、离线分类库压缩重建（影片数据一部不少），下载更新更省流量。",
+  "force": false,
+  "publishedAt": "2026-10-15T11:46:07.857Z"
+}
