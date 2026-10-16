@@ -6,9 +6,9 @@
     "https://github.com/dtjxm/sexmovie/releases/download/v1.1.1/app-release.apk"
   ],
   "size": 78159566,
-  "md5": "0762a516fe72d15652b82acc8377061e",
-  "sha256": "58df893f0845aeb5de13b4fdc336c61ce07dc2152433337e2769af7b44018bab",
+  "md5": "efb1e22d09e78dc416704944fba77eaf",
+  "sha256": "968a61212e71d660cc013df09d174cde1fbe385b93899ff1e45bdb0a97c5899f",
   "note": "本次更新（v1.1.1）：修复「最新」页加载不出来、首页分类切换偏慢两个问题——分类切换现在约 1 秒就能看到内容；底部导航「最新更新」更名为「最新」。\n（v1.1.0 起分类浏览已改为实时取数：内容永远新鲜，每次打开都不一样）",
   "force": false,
-  "publishedAt": "2026-10-16T06:57:19.384Z"
+  "publishedAt": "2026-10-16T07:24:15.321Z"
 }
