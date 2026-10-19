@@ -1,14 +1,14 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.0",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.2.0/app-release.apk",
+  "versionCode": 14,
+  "versionName": "1.2.1",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.2.1/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.2.0/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.2.1/app-release.apk"
   ],
   "size": 38743381,
-  "md5": "7c35f6563356bfa44aa225bcb8f4525f",
-  "sha256": "6ee4254e37ddbacfe9fb1defff51c74ee44541cebd82c1fd036db39528983cc2",
-  "note": "本次更新（v1.2.0）：\n①安装包大幅瘦身：约 74MB → 约 37MB（移除不再使用的内部影片库，分类浏览仍为实时源分类流）\n②测速改为「每天第一次打开 + 换网后第一次打开」才进行，启动更快\n③情色电影按片源「地区」字段分类，「港台情色」等内容明显增多\n④首页切换片源后立即按新源刷新分类列表\n⑤播放器恢复倍速（0.5x～3x，在线与已下载影片通用）\n⑥直播方向固定：电视台直播横屏、网络个人直播竖屏（取消旋转按钮）",
+  "md5": "25442c5a71b34c6b0a7aac4899912df8",
+  "sha256": "19fc503c68e18e0293a7a96ab50b3d530c60e030d8d2ff39a14455a618fe508a",
+  "note": "本次更新（v1.2.1）：\n①直播切台手势：电视台与网络个人直播都支持「上滑下一个台、下滑上一个台」（抖音式）\n②版本信息排版优化：更新说明改为逐条编号列表，不再大段混排",
   "force": false,
-  "publishedAt": "2026-10-19T04:46:15.227Z"
+  "publishedAt": "2026-10-19T10:05:12.091Z"
 }
