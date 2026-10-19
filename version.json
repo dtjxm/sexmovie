@@ -1,14 +1,14 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.1",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.1.1/app-release.apk",
+  "versionCode": 13,
+  "versionName": "1.2.0",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.2.0/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.1.1/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.2.0/app-release.apk"
   ],
-  "size": 78159566,
-  "md5": "efb1e22d09e78dc416704944fba77eaf",
-  "sha256": "968a61212e71d660cc013df09d174cde1fbe385b93899ff1e45bdb0a97c5899f",
-  "note": "本次更新（v1.1.1）：修复「最新」页加载不出来、首页分类切换偏慢两个问题——分类切换现在约 1 秒就能看到内容；底部导航「最新更新」更名为「最新」。\n（v1.1.0 起分类浏览已改为实时取数：内容永远新鲜，每次打开都不一样）",
+  "size": 38743381,
+  "md5": "7c35f6563356bfa44aa225bcb8f4525f",
+  "sha256": "6ee4254e37ddbacfe9fb1defff51c74ee44541cebd82c1fd036db39528983cc2",
+  "note": "本次更新（v1.2.0）：\n①安装包大幅瘦身：约 74MB → 约 37MB（移除不再使用的内部影片库，分类浏览仍为实时源分类流）\n②测速改为「每天第一次打开 + 换网后第一次打开」才进行，启动更快\n③情色电影按片源「地区」字段分类，「港台情色」等内容明显增多\n④首页切换片源后立即按新源刷新分类列表\n⑤播放器恢复倍速（0.5x～3x，在线与已下载影片通用）\n⑥直播方向固定：电视台直播横屏、网络个人直播竖屏（取消旋转按钮）",
   "force": false,
-  "publishedAt": "2026-10-16T07:24:15.321Z"
+  "publishedAt": "2026-10-19T04:46:15.227Z"
 }
