@@ -1,14 +1,14 @@
 {
-  "versionCode": 14,
-  "versionName": "1.2.1",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.2.1/app-release.apk",
+  "versionCode": 15,
+  "versionName": "1.2.2",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.2.2/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.2.1/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.2.2/app-release.apk"
   ],
   "size": 38743381,
-  "md5": "25442c5a71b34c6b0a7aac4899912df8",
-  "sha256": "19fc503c68e18e0293a7a96ab50b3d530c60e030d8d2ff39a14455a618fe508a",
-  "note": "本次更新（v1.2.1）：\n①直播切台手势：电视台与网络个人直播都支持「上滑下一个台、下滑上一个台」（抖音式）\n②版本信息排版优化：更新说明改为逐条编号列表，不再大段混排",
+  "md5": "c20d45b2fd13f129bc43c6b8f28423bd",
+  "sha256": "d03a3df1346313020e7ea7e0a7482be76036c8406589b2d942692322b6cb0810",
+  "note": "本次更新（v1.2.2）：\n①修复「切换分类加载不出来」：上一屏还在加载时切分类会一直空转，现已修复（切换立即重新拉取）\n②加载稳定性优化：过期请求不再干扰新分类的加载状态",
   "force": false,
-  "publishedAt": "2026-10-19T10:05:12.091Z"
+  "publishedAt": "2026-10-22T00:54:00.404Z"
 }
