@@ -1,14 +1,14 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.1",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.4.1/app-release.apk",
+  "versionCode": 21,
+  "versionName": "1.4.2",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.4.2/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.4.1/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.4.2/app-release.apk"
   ],
-  "size": 38875245,
-  "md5": "a3124b9dcb09ca7decb55c034b5ac6ba",
-  "sha256": "ba836e07d693a606f8b7dbd31957c516c954cec3fe0d76f5a0d8efb7143a0b78",
-  "note": "本次更新（v1.4.1）：\n①直播可用性检测加强：读取前 4KB 校验 m3u8/TS/FLV 特征，200 错误页/空流判死；播放器确认所有线路失败时自动从网络个人直播列表移除\n②新增公网直播源：从 adultiptv.net/chs.m3u 实测加入 MyCamTV 主题台 14 台（静态频道 29→43），并支持其「外层清单→二级清单」嵌套结构的自动解包\n③分类空态区分「无直供源」和「加载超时」：有直供源时提示「加载超时或失败（N 个直供源）」并优先给重试",
+  "size": 38901859,
+  "md5": "fa9ce32ef625357756a8890241b656c3",
+  "sha256": "95414c07233918fb3a8f535faf85ae2b1ae9a4b82bab03f2ca07cd857d502cf3",
+  "note": "本次更新（v1.4.2）：\n①电视台直播三组统一行式卡片（头像/名称/线路/类型），与个人直播一致；新增搜索，支持中文/英文/拼音首字母\n②MyCamTV 15 台改为中文名（熟女、阿拉伯女郎、黑珍珠、白皙女郎等），英文原名作副标题\n③扩展源订阅：App 自动拉取公开 M3U 清单，过滤红线、去重后并入网络个人直播；内置 AdultIPTV Xtream 直播快照 1,880 条（仅 /live/，抽样探活通过才启用）\n④设置 → 直播 →「第三方扩展源（AdultIPTV）」可关闭；远程清单可更新，无需发版",
   "force": false,
-  "publishedAt": "2026-10-28T12:06:16.407Z"
+  "publishedAt": "2026-10-28T12:42:50.689Z"
 }
