@@ -1,14 +1,14 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.0",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.3.0/app-release.apk",
+  "versionCode": 19,
+  "versionName": "1.4.0",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.4.0/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.3.0/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.4.0/app-release.apk"
   ],
-  "size": 38874513,
-  "md5": "f097e01b0844d9069674156f28edb194",
-  "sha256": "ab35c0184088e1a8ee4f5960e377c926f21b90755f00ca3a6f5b5345bb983941",
-  "note": "本次更新（v1.3.0）：\n①封面：图片请求增加源站/图床 Referer 与 HTTP 重试；空图或彻底失败时生成「片名取色 + 大字」海报；补缩略图字段兜底\n②详情页：改为上部 16:9 播放窗，点播放直接内嵌起播；点全屏共享同一个播放器实例，返回后原位续播\n③网络个人直播：取消平台分类，136 个平台合并去重为约 300 位主播；同名主播合并线路，按拼音排序，支持搜索\n④播放链路：mp4 直链代理不再整包 GET；直播 master 变体不再被 90 秒缓存卡住；播放失败错误页修复",
+  "size": 38875009,
+  "md5": "bfa4b55f1704ade0d9942814bd80d165",
+  "sha256": "c98416891160823566197816dc230412f4ddf8df8c4e28cd3d1b031679b1262c",
+  "note": "本次更新（v1.4.0）：\n①分类体系：一级改为 5 类（情色电影、日本影片、国产机构、自拍偷拍、其他）；欧美影片/成人动画降级到「其他」；移除果冻传媒、91专区、自拍社区\n②分类严格取数：具体二级只取精确直配，不再自动补一级；没内容显示空态并可点「查看一级全部」；1 个直供源的二级标「少」\n③测速时机：同一天同一网络不再每次打开都测速；测速失败/超时也不会反复测\n④详情小窗：连点不再重复起播，显示「正在打开播放器」，初始化 12 秒超时\n⑤全屏方向：竖屏内容竖向全屏，横屏内容横屏；竖屏顶栏改为紧凑「更多」菜单\n⑥网络个人直播：后台检测可用性并过滤连不上的；排序改为名称/随机；补充第一财经/新闻/体育等非成人频道过滤；上下滑切台跟随当前列表顺序",
   "force": false,
-  "publishedAt": "2026-10-27T14:04:33.979Z"
+  "publishedAt": "2026-10-28T11:34:30.647Z"
 }
