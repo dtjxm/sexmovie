@@ -1,14 +1,14 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.0",
-  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.4.0/app-release.apk",
+  "versionCode": 20,
+  "versionName": "1.4.1",
+  "url": "https://github.com/dtjxm/sexmovie/releases/download/v1.4.1/app-release.apk",
   "urls": [
-    "https://github.com/dtjxm/sexmovie/releases/download/v1.4.0/app-release.apk"
+    "https://github.com/dtjxm/sexmovie/releases/download/v1.4.1/app-release.apk"
   ],
-  "size": 38875009,
-  "md5": "bfa4b55f1704ade0d9942814bd80d165",
-  "sha256": "c98416891160823566197816dc230412f4ddf8df8c4e28cd3d1b031679b1262c",
-  "note": "本次更新（v1.4.0）：\n①分类体系：一级改为 5 类（情色电影、日本影片、国产机构、自拍偷拍、其他）；欧美影片/成人动画降级到「其他」；移除果冻传媒、91专区、自拍社区\n②分类严格取数：具体二级只取精确直配，不再自动补一级；没内容显示空态并可点「查看一级全部」；1 个直供源的二级标「少」\n③测速时机：同一天同一网络不再每次打开都测速；测速失败/超时也不会反复测\n④详情小窗：连点不再重复起播，显示「正在打开播放器」，初始化 12 秒超时\n⑤全屏方向：竖屏内容竖向全屏，横屏内容横屏；竖屏顶栏改为紧凑「更多」菜单\n⑥网络个人直播：后台检测可用性并过滤连不上的；排序改为名称/随机；补充第一财经/新闻/体育等非成人频道过滤；上下滑切台跟随当前列表顺序",
+  "size": 38875245,
+  "md5": "a3124b9dcb09ca7decb55c034b5ac6ba",
+  "sha256": "ba836e07d693a606f8b7dbd31957c516c954cec3fe0d76f5a0d8efb7143a0b78",
+  "note": "本次更新（v1.4.1）：\n①直播可用性检测加强：读取前 4KB 校验 m3u8/TS/FLV 特征，200 错误页/空流判死；播放器确认所有线路失败时自动从网络个人直播列表移除\n②新增公网直播源：从 adultiptv.net/chs.m3u 实测加入 MyCamTV 主题台 14 台（静态频道 29→43），并支持其「外层清单→二级清单」嵌套结构的自动解包\n③分类空态区分「无直供源」和「加载超时」：有直供源时提示「加载超时或失败（N 个直供源）」并优先给重试",
   "force": false,
-  "publishedAt": "2026-10-28T11:34:30.647Z"
+  "publishedAt": "2026-10-28T12:06:16.407Z"
 }
