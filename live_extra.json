@@ -1,0 +1,12 @@
+{
+ "version": 1,
+ "updated": "2026-10-28",
+ "note": "扩展直播源清单（公开 M3U）。App 自动拉取、过滤红线、去重后并入网络个人直播；新增源只改本文件/远程同名文件，无需发版。",
+ "sources": [
+  {
+   "name": "AdultIPTV 公开清单",
+   "url": "https://adultiptv.net/All.m3u",
+   "enabled": true
+  }
+ ]
+}
