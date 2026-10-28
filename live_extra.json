@@ -1,7 +1,7 @@
 {
- "version": 2,
+ "version": 3,
  "updated": "2026-10-28",
- "note": "扩展直播源清单。App 自动拉取、过滤红线、去重后并入网络个人直播；新增源只改本文件/远程同名文件，无需发版。thirdParty=true 的源可在设置里关闭。",
+ "note": "扩展直播源清单。App 自动拉取、过滤红线、去重后并入网络个人直播；新增网络源只改本文件/远程同名文件，无需发版。thirdParty=true 的源可在设置里关闭。",
  "sources": [
   {
    "name": "AdultIPTV 公开清单",
@@ -9,18 +9,12 @@
    "enabled": true
   },
   {
-   "name": "AdultIPTV Xtream 扩展",
-   "url": "https://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u",
+   "name": "AdultIPTV Xtream 扩展（内置快照）",
+   "asset": "assets/live_extra_xc.m3u",
    "enabled": true,
    "thirdParty": true,
    "liveOnly": true,
-   "maxChannels": 2500,
-   "skipNames": [
-    "Pornstar", "Blowjob", "Teen", "Cuckold", "Anal", "Live Cams",
-    "Hardcore", "Bigdick", "Interracial", "MILF", "Compilation", "Gay",
-    "Latina", "Threesome", "Brunette", "POV", "Big Tits", "Gangbang",
-    "Fetish", "Lesbian", "Blonde", "Asian", "Russian", "Rough", "Big Ass"
-   ]
+   "maxChannels": 2200
   }
  ]
 }
